@@ -1,0 +1,27 @@
+* {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li, p {
+    font-size: 20px;
+}
+
+h1,h2,h3,h4 {
+    background-color: aqua;
+}
+
+button {
+    font-size: 50px;
+    background-color: #7289da;
+}
+
+.mainpage {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#mainbg {
+    background-color: #424549;
+}
